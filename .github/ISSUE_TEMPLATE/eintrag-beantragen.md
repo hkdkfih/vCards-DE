@@ -8,10 +8,8 @@ assignees: ''
 ---
 
 **Daten**
-## Name<br/>
-## Telefonnummer<br/>
-## Logo(bitte als Google Drive link)<br/>
-## Sonstiges
+Name, Telefonnummer, Logo(bitte als Google Drive link), etc.
+
 **Warum?**
 Warum ist dieser Eintrag nützlich?
 considered.
