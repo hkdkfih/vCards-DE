@@ -9,3 +9,8 @@ https://support.google.com/contacts/answer/15147365?hl=en-GB&co=GENIE.Platform%3
 ## Eintrag beantragen
 ***Bitte nur Einträge machen was anderen nützt! 2000 Spam-Einträge braucht es nicht!***<br/>
 Einfach ein Issue nach dem Template "Eintrag beantragen" erstellen :)
+
+
+## FAQs
+**Wird es auch als CardDEV angeboten?**<br/>
+Momentan nicht, aber es ist schon geplant.
