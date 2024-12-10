@@ -1,6 +1,6 @@
 ---
-name: Eintrag hinzufügen
-about: Eintrag hinzufügen
+name: Eintrag beantragen
+about: Eintrag beantragen
 title: "[Eintrag]"
 labels: ''
 assignees: ''
@@ -8,8 +8,10 @@ assignees: ''
 ---
 
 **Daten**
-Name, Telefonnummer(n), Email, Logo(bitte als google drives link), etc.
-
+## Name<br/>
+## Telefonnummer<br/>
+## Logo(bitte als Google Drive link)<br/>
+## Sonstiges
 **Warum?**
 Warum ist dieser Eintrag nützlich?
 considered.
